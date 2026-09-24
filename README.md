@@ -9,7 +9,7 @@
 ## Cite as
 
 Ellrod, C. (2026). PP-SPEC-026: Proof-Derived Value and the Speculative Token Fallacy.
-Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821518
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821517
 
 ## Summary
 
