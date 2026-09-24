@@ -1,0 +1,24 @@
+{
+  "title": "PP-SPEC-026: Proof-Derived Value and the Speculative Token Fallacy",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "PP-SPEC-026: Proof-Derived Value and the Speculative Token Fallacy",
+  "license": "cc-by-nd-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-protocol"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
