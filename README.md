@@ -6,6 +6,11 @@
 **License:** CC BY-ND 4.0
 **Related:** PP-SPEC-023 (Structural Independence and the Fidelity-at-Capture Requirement), PP-SPEC-024 (The Self-Attestation Oxymoron)
 
+## Cite as
+
+Ellrod, C. (2026). PP-SPEC-026: Proof-Derived Value and the Speculative Token Fallacy.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821518
+
 ## Summary
 
 Every existing digital currency derives value from scarcity of computation, scarcity of capital commitment, or scarcity of belief. None derive value from empirically measured performance of a real-world claim. This spec defines what a genuinely proof-derived value system requires structurally, and why systems that skip these requirements are speculative tokens wearing proof-economy language.
