@@ -7,7 +7,7 @@ authors:
     affiliation: "Nebulonium, Inc. (HACKERverse)"
 version: "1.0"
 date-released: 2026-09-18
-doi: 10.5281/zenodo.22821518
+doi: 10.5281/zenodo.22821517
 license: CC-BY-ND-4.0
 url: "https://proofprotocol.io"
 repository-code: "https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy"
@@ -21,6 +21,6 @@ preferred-citation:
   month: 9
   publisher:
     name: "Proof Economy Standards Alliance (PESA)"
-  doi: 10.5281/zenodo.22821518
+  doi: 10.5281/zenodo.22821517
   url: "https://github.com/proofprotocol/Proof-Derived-Value-and-the-Speculative-Token-Fallacy"
   license: CC-BY-ND-4.0
